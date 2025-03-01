@@ -1,6 +1,8 @@
 # 💫 About Me:
-Hey, I'm Bryan! 👋<br>I’m all about turning the most complicated things into a walk in the park (or a cup of coffee in hand ☕). Welcome to my little corner of the internet 🌐, where I turn code into magic 🧙‍♂️, all while having a blast 🎉. These projects? Oh, they're just my way of adding some excitement to my “leisure” time... because who needs regular hobbies when you can build something awesome? 🚀
 
+<img src="https://cdn.prod.website-files.com/64d577298ec95b94326c23bb/64debde90382d4a952d503ef_Draw.gif" width=40% align="right" />
+
+Hey, I'm Bryan! 👋<br>I’m all about turning the most complicated things into a walk in the park (or a cup of coffee in hand ☕). Welcome to my little corner of the internet 🌐, where I turn code into magic 🧙‍♂️, all while having a blast 🎉. These projects? Oh, they're just my way of adding some excitement to my “leisure” time... because who needs regular hobbies when you can build something awesome? 🚀
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/gh) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/hj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hj) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/hj) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/jhj) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bryan.christy29@gmail.com) 
