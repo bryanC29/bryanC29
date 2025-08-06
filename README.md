@@ -1,5 +1,7 @@
 # 💫 About Me:
 
+![](https://komarev.com/ghpvc/?username=bryanC29&style=flat&color=blue&abbreviated=true&base=100)
+
 <img src="https://cdn.prod.website-files.com/64d577298ec95b94326c23bb/64debde90382d4a952d503ef_Draw.gif" width=40% align="right" />
 
 Hey, I'm Bryan! 👋<br>I’m all about turning the most complicated things into a walk in the park (or a cup of coffee in hand ☕). Welcome to my little corner of the internet 🌐, where I turn code into magic 🧙‍♂️, all while having a blast 🎉. These projects? Oh, they're just my way of adding some excitement to my “leisure” time... because who needs regular hobbies when you can build something awesome? 🚀
